@@ -1,0 +1,27 @@
+# .NET
+bin/
+obj/
+*.user
+appsettings.Development.json
+appsettings.Local.json
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+
+# Ambiente
+.env
+.env.local
+*.env
+
+# Editor / SO
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
